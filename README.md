@@ -1,1 +1,1 @@
-# CS2-Maps-Parsed
+### This repository is used for hosting maps for PassatHook CS2
